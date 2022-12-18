@@ -1,7 +1,12 @@
 # rider_app UI
-<img src = "https://user-images.githubusercontent.com/94740513/208284610-2b8308b2-60e7-48d9-8f98-b488d2a5c4d7.jpg" width = "200" height = "450">
 
-<img src = "https://user-images.githubusercontent.com/94740513/208284613-79d95411-9fec-4871-982b-da38fc77020d.jpg" width = "200" height = "450">
+![]([https://...Dark.png](https://user-images.githubusercontent.com/94740513/208284610-2b8308b2-60e7-48d9-8f98-b488d2a5c4d7.jpg))
+
+![]( https://user-images.githubusercontent.com/94740513/208284613-79d95411-9fec-4871-982b-da38fc77020d.jpg)
+
+![]( )
+
+![]( )
 
 <img src = "https://user-images.githubusercontent.com/94740513/208284617-91d2c0ee-d7f3-47f4-b130-a553786e43eb.jpg" width = "200" height = "450">
 
